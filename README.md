@@ -27,7 +27,7 @@ The simulation reflects a realistic call center scenario, optimizing both human 
 To simulate the operational flow of a call center in a **cost-effective** and **realistically complex environment**, allowing for performance optimization, resource planning, and analysis of customer behavior under varying load conditions.
 
 ## 📁 Files
-- `callCenterp`: The main AnyLogic project file.
+- `callCenter.alp`: The main AnyLogic project file.
 
 ---
 
